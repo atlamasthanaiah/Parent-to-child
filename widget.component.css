@@ -1,0 +1,13 @@
+.color-one
+{ 
+    background-color: tomato;
+}
+.color-two
+{
+    background-color: green;
+}
+
+.card
+{
+    border-radius: 20px;
+}
